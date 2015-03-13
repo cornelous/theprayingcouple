@@ -1,24 +1,24 @@
 # config valid only for Capistrano 3.1
-lock '3.1.0'
+lock '3.4.0'
 
 # require Slack config
-require './config/slack'
+#require './config/slack'
 
 ############################################
 # Setup WordPress
 ############################################
 
-set :wp_user, "yourname" # The admin username
-set :wp_email, "yourname@example.com" # The admin email address
-set :wp_sitename, "WP Deploy" # The site title
-set :wp_localurl, "http://wpdeploy" # Your local environment URL
+set :wp_user, "careervanguard" # The admin username
+set :wp_email, "careervanguard@gmail.com" # The admin email address
+set :wp_sitename, "Career Vanguard" # The site title
+set :wp_localurl, "http://localhost/careervanguard" # Your local environment URL
 
 ############################################
 # Setup project
 ############################################
 
-set :application, "wp-deploy"
-set :repo_url, "git@github.com:Mixd/wp-deploy.git"
+set :application, "careervanguard"
+set :repo_url, "https://github.com/cornelous/careervanguard.git"
 set :scm, :git
 
 set :git_strategy, SubmoduleStrategy
