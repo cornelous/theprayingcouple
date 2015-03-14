@@ -41,7 +41,7 @@
 
 		<header id="masthead" class="site-header" role="banner">
 			<div class="container">
-				<a href="<?php echo esc_url( home_url( '/' ) ); ?>" title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" rel="home" class="site-branding">
+				<a href="<?php echo esc_url( home_url( '/' ) ); ?>" title="<?php // echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" rel="home" class="site-branding">
 					<?php $header_image = get_header_image(); ?>
 					<h1 class="site-title">
 						<?php if ( ! empty( $header_image ) ) : ?>
