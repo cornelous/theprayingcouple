@@ -14,14 +14,3 @@ function jobify_child_styles() {
 add_action( 'wp
 
 _enqueue_scripts', 'jobify_child_styles', 20 );
-
-function my_login_logo_one() {
-    ?>
-    <style type="text/css">
-        body.login div#login h1 a {
-            background-image: url(http://careervanguard.co.za/content/images/cv.jpg);
-            padding-bottom: 30px;
-        }
-    </style>
-<?php
-} add_action( 'login_enqueue_scripts', 'my_login_logo_one' );
