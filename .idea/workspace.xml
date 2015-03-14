@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f69b955c-1408-4d1b-8c1f-8b9f3a590b5f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/plugins/easy-wp-smtp/easy-wp-smtp.php" afterPath="$PROJECT_DIR$/content/plugins/easy-wp-smtp/easy-wp-smtp.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/themes/jobify-child/functions.php" afterPath="$PROJECT_DIR$/content/themes/jobify-child/functions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/plugins/easy-wp-smtp/readme.txt" afterPath="$PROJECT_DIR$/content/plugins/easy-wp-smtp/readme.txt" />
     </list>
     <ignored path="careervanguard.co.za.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,7 +28,7 @@
       <file leaf-file-name="functions.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/content/themes/jobify-child/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="51" selection-start="443" selection-end="443" vertical-scroll-proportion="0.37251654" vertical-offset="0" max-vertical-offset="604">
+            <state line="26" column="61" selection-start="602" selection-end="602" vertical-scroll-proportion="0.49668875" vertical-offset="0" max-vertical-offset="604">
               <folding />
             </state>
           </provider>
@@ -207,7 +205,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/content/themes/jobify-child/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="51" selection-start="443" selection-end="443" vertical-scroll-proportion="0.37251654" vertical-offset="0" max-vertical-offset="604">
+        <state line="26" column="61" selection-start="602" selection-end="602" vertical-scroll-proportion="0.49668875" vertical-offset="0" max-vertical-offset="604">
           <folding />
         </state>
       </provider>

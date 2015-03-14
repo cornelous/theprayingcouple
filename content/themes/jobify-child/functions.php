@@ -19,7 +19,7 @@ function my_login_logo_one() {
     ?>
     <style type="text/css">
         body.login div#login h1 a {
-            background-image: url(http://localhost/content/images/cv.jpg);
+            background-image: url(http://careervanguard.co.za/content/images/cv.jpg);
             padding-bottom: 30px;
         }
     </style>
