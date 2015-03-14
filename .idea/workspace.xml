@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f69b955c-1408-4d1b-8c1f-8b9f3a590b5f" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/plugins/wp-job-manager/includes/forms/class-wp-job-manager-form-submit-job.php" afterPath="$PROJECT_DIR$/content/plugins/wp-job-manager/includes/forms/class-wp-job-manager-form-submit-job.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/plugins/wp-job-manager/includes/admin/class-wp-job-manager-writepanels.php" afterPath="$PROJECT_DIR$/content/plugins/wp-job-manager/includes/admin/class-wp-job-manager-writepanels.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/themes/jobify/header.php" afterPath="$PROJECT_DIR$/content/themes/jobify/header.php" />
     </list>
     <ignored path="careervanguard.co.za.iws" />
@@ -34,10 +36,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="header.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content/themes/jobify/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="89" selection-start="1727" selection-end="1727" vertical-scroll-proportion="0.5177665" vertical-offset="369" max-vertical-offset="1005">
+            <state line="38" column="0" selection-start="999" selection-end="999" vertical-scroll-proportion="-4.0" vertical-offset="369" max-vertical-offset="1005">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="class-wp-job-manager-writepanels.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/plugins/wp-job-manager/includes/admin/class-wp-job-manager-writepanels.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="31" column="38" selection-start="756" selection-end="756" vertical-scroll-proportion="-5.75" vertical-offset="327" max-vertical-offset="6240">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="class-wp-job-manager-form-submit-job.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/content/plugins/wp-job-manager/includes/forms/class-wp-job-manager-form-submit-job.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="150" column="48" selection-start="4350" selection-end="4350" vertical-scroll-proportion="2.877551" vertical-offset="1122" max-vertical-offset="14055">
               <folding />
             </state>
           </provider>
@@ -58,6 +78,8 @@
       <list>
         <option value="$PROJECT_DIR$/content/themes/jobify-child/functions.php" />
         <option value="$PROJECT_DIR$/content/themes/jobify/header.php" />
+        <option value="$PROJECT_DIR$/content/plugins/wp-job-manager/includes/admin/class-wp-job-manager-writepanels.php" />
+        <option value="$PROJECT_DIR$/content/plugins/wp-job-manager/includes/forms/class-wp-job-manager-form-submit-job.php" />
       </list>
     </option>
   </component>
@@ -197,6 +219,19 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -215,6 +250,7 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.270229" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2533757" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -225,7 +261,6 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -266,7 +301,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/content/themes/jobify/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="89" selection-start="1727" selection-end="1727" vertical-scroll-proportion="0.5177665" vertical-offset="369" max-vertical-offset="1005">
+        <state line="38" column="0" selection-start="999" selection-end="999" vertical-scroll-proportion="-4.0" vertical-offset="369" max-vertical-offset="1005">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/plugins/wp-job-manager/includes/admin/class-wp-job-manager-writepanels.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="38" selection-start="756" selection-end="756" vertical-scroll-proportion="-5.75" vertical-offset="327" max-vertical-offset="6240">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/plugins/wp-job-manager/includes/forms/class-wp-job-manager-form-submit-job.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="150" column="48" selection-start="4350" selection-end="4350" vertical-scroll-proportion="2.877551" vertical-offset="1122" max-vertical-offset="14055">
           <folding />
         </state>
       </provider>
