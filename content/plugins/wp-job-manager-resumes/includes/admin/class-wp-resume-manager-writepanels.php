@@ -37,7 +37,7 @@ class WP_Resume_Manager_Writepanels extends WP_Job_Manager_Writepanels {
 			),
 			'_candidate_location' => array(
 				'label'       => __( 'Candidate location', 'wp-job-manager-resumes' ),
-				'placeholder' => __( 'e.g. "London, UK", "New York", "Houston, TX"', 'wp-job-manager-resumes' ),
+				'placeholder' => __( 'e.g. "Capetown, Western Cape", "Johannesburg", "Mpumalanga"', 'wp-job-manager-resumes' ),
 				'description' => ''
 			),
 			'_candidate_photo' => array(

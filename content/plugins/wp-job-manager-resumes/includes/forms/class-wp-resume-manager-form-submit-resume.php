@@ -168,7 +168,7 @@ class WP_Resume_Manager_Form_Submit_Resume extends WP_Job_Manager_Form {
 					'label'       => __( 'Location', 'wp-job-manager-resumes' ),
 					'type'        => 'text',
 					'required'    => true,
-					'placeholder' => __( 'e.g. "London, UK", "New York", "Houston, TX"', 'wp-job-manager-resumes' ),
+					'placeholder' => __( 'e.g. "Capetown, Western Cape", "Johannesburg", "Mpumalanga"', 'wp-job-manager-resumes' ),
 					'priority'    => 4
 				),
 				'candidate_photo' => array(

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f69b955c-1408-4d1b-8c1f-8b9f3a590b5f" name="Default" comment="" />
+    <list default="true" id="f69b955c-1408-4d1b-8c1f-8b9f3a590b5f" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/plugins/wp-job-manager/includes/forms/class-wp-job-manager-form-submit-job.php" afterPath="$PROJECT_DIR$/content/plugins/wp-job-manager/includes/forms/class-wp-job-manager-form-submit-job.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/plugins/wp-job-manager-resumes/includes/forms/class-wp-resume-manager-form-submit-resume.php" afterPath="$PROJECT_DIR$/content/plugins/wp-job-manager-resumes/includes/forms/class-wp-resume-manager-form-submit-resume.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/plugins/wp-job-manager-resumes/includes/admin/class-wp-resume-manager-writepanels.php" afterPath="$PROJECT_DIR$/content/plugins/wp-job-manager-resumes/includes/admin/class-wp-resume-manager-writepanels.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/plugins/wp-job-manager/templates/content-single-job_listing-meta.php" afterPath="$PROJECT_DIR$/content/plugins/wp-job-manager/templates/content-single-job_listing-meta.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/plugins/wp-job-manager/readme.txt" afterPath="$PROJECT_DIR$/content/plugins/wp-job-manager/readme.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/plugins/wp-job-manager/wp-job-manager.php" afterPath="$PROJECT_DIR$/content/plugins/wp-job-manager/wp-job-manager.php" />
+    </list>
     <ignored path="careervanguard.co.za.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -44,16 +51,42 @@
       <file leaf-file-name="class-wp-job-manager-writepanels.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content/plugins/wp-job-manager/includes/admin/class-wp-job-manager-writepanels.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="38" selection-start="756" selection-end="756" vertical-scroll-proportion="-5.75" vertical-offset="327" max-vertical-offset="6240">
+            <state line="38" column="38" selection-start="1134" selection-end="1134" vertical-scroll-proportion="-5.75" vertical-offset="432" max-vertical-offset="6840">
+              <folding>
+                <marker date="1426366440000" expanded="true" signature="649:762" placeholder="..." />
+                <marker date="1426366440000" expanded="true" signature="678:762" placeholder="..." />
+                <marker date="1426366440000" expanded="true" signature="15832:15843" placeholder="..." />
+                <marker date="1426366440000" expanded="true" signature="15832:15838" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="class-wp-job-manager-form-submit-job.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/plugins/wp-job-manager/includes/forms/class-wp-job-manager-form-submit-job.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="94" column="5" selection-start="2832" selection-end="2832" vertical-scroll-proportion="-3.875" vertical-offset="1317" max-vertical-offset="13710">
+              <folding>
+                <marker date="1426366440000" expanded="true" signature="13323:13337" placeholder="..." />
+                <marker date="1426366440000" expanded="true" signature="13323:13330" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="class-wp-resume-manager-writepanels.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/plugins/wp-job-manager-resumes/includes/admin/class-wp-resume-manager-writepanels.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="39" column="38" selection-start="1286" selection-end="1286" vertical-scroll-proportion="-2.0833333" vertical-offset="535" max-vertical-offset="6090">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="class-wp-job-manager-form-submit-job.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/content/plugins/wp-job-manager/includes/forms/class-wp-job-manager-form-submit-job.php">
+      <file leaf-file-name="class-wp-resume-manager-form-submit-resume.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/content/plugins/wp-job-manager-resumes/includes/forms/class-wp-resume-manager-form-submit-resume.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="84" column="0" selection-start="2333" selection-end="2333" vertical-scroll-proportion="0.35204083" vertical-offset="1122" max-vertical-offset="14055">
+            <state line="171" column="38" selection-start="5090" selection-end="5090" vertical-scroll-proportion="0.5078125" vertical-offset="2500" max-vertical-offset="15900">
               <folding />
             </state>
           </provider>
@@ -76,6 +109,8 @@
         <option value="$PROJECT_DIR$/content/themes/jobify/header.php" />
         <option value="$PROJECT_DIR$/content/plugins/wp-job-manager/includes/admin/class-wp-job-manager-writepanels.php" />
         <option value="$PROJECT_DIR$/content/plugins/wp-job-manager/includes/forms/class-wp-job-manager-form-submit-job.php" />
+        <option value="$PROJECT_DIR$/content/plugins/wp-job-manager-resumes/includes/admin/class-wp-resume-manager-writepanels.php" />
+        <option value="$PROJECT_DIR$/content/plugins/wp-job-manager-resumes/includes/forms/class-wp-resume-manager-form-submit-resume.php" />
       </list>
     </option>
   </component>
@@ -240,13 +275,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="24" width="1301" height="744" extended-state="7" />
+    <frame x="65" y="24" width="1301" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.270229" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.63969463" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2533757" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -304,14 +339,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/content/plugins/wp-job-manager/includes/admin/class-wp-job-manager-writepanels.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="38" selection-start="756" selection-end="756" vertical-scroll-proportion="-5.75" vertical-offset="327" max-vertical-offset="6240">
-          <folding />
+        <state line="38" column="38" selection-start="1134" selection-end="1134" vertical-scroll-proportion="-5.75" vertical-offset="432" max-vertical-offset="6840">
+          <folding>
+            <marker date="1426366440000" expanded="true" signature="649:762" placeholder="..." />
+            <marker date="1426366440000" expanded="true" signature="678:762" placeholder="..." />
+            <marker date="1426366440000" expanded="true" signature="15832:15843" placeholder="..." />
+            <marker date="1426366440000" expanded="true" signature="15832:15838" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/content/plugins/wp-job-manager/includes/forms/class-wp-job-manager-form-submit-job.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="84" column="0" selection-start="2333" selection-end="2333" vertical-scroll-proportion="0.35204083" vertical-offset="1122" max-vertical-offset="14055">
+        <state line="94" column="5" selection-start="2832" selection-end="2832" vertical-scroll-proportion="-3.875" vertical-offset="1317" max-vertical-offset="13710">
+          <folding>
+            <marker date="1426366440000" expanded="true" signature="13323:13337" placeholder="..." />
+            <marker date="1426366440000" expanded="true" signature="13323:13330" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/plugins/wp-job-manager-resumes/includes/admin/class-wp-resume-manager-writepanels.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="38" selection-start="1286" selection-end="1286" vertical-scroll-proportion="-2.0833333" vertical-offset="535" max-vertical-offset="6090">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/plugins/wp-job-manager-resumes/includes/forms/class-wp-resume-manager-form-submit-resume.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="171" column="38" selection-start="5090" selection-end="5090" vertical-scroll-proportion="0.5078125" vertical-offset="2500" max-vertical-offset="15900">
           <folding />
         </state>
       </provider>
