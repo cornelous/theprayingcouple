@@ -52,6 +52,18 @@ $args = array(
         (adsbygoogle = window.adsbygoogle || []).push({});
     </script>
 
+    </br></br></br>
+
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- 336x280 -->
+    <ins class="adsbygoogle"
+         style="display:inline-block;width:336px;height:280px"
+         data-ad-client="ca-pub-8405479344707225"
+         data-ad-slot="1079671995"></ins>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+
 </div>
 
 <?php do_action( 'single_job_listing_info_end' ); ?>

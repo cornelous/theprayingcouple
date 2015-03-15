@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f69b955c-1408-4d1b-8c1f-8b9f3a590b5f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/themes/jobify/content-single-job.php" afterPath="$PROJECT_DIR$/content/themes/jobify/content-single-job.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/themes/jobify/sidebar-single-job_listing.php" afterPath="$PROJECT_DIR$/content/themes/jobify/sidebar-single-job_listing.php" />
     </list>
     <ignored path="careervanguard.co.za.iws" />
@@ -46,21 +45,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sidebar-single-job_listing.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="sidebar-single-job_listing.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/content/themes/jobify/sidebar-single-job_listing.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="0" selection-start="1271" selection-end="1271" vertical-scroll-proportion="-15.583333" vertical-offset="241" max-vertical-offset="900">
+            <state line="64" column="13" selection-start="2057" selection-end="2057" vertical-scroll-proportion="0.94727594" vertical-offset="391" max-vertical-offset="1080">
               <folding>
                 <element signature="e#1422#1475#0" expanded="true" />
+                <element signature="e#1826#1879#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="content-single-job.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="content-single-job.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content/themes/jobify/content-single-job.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="59" column="21" selection-start="2226" selection-end="2226" vertical-scroll-proportion="0.8892989" vertical-offset="328" max-vertical-offset="990">
+            <state line="59" column="21" selection-start="2226" selection-end="2226" vertical-scroll-proportion="-8.568627" vertical-offset="373" max-vertical-offset="990">
               <folding>
                 <element signature="n#style#0;n#ins#0;n#div#0;n#article#0;n#div#1;n#!!top" expanded="true" />
               </folding>
@@ -71,7 +71,7 @@
       <file leaf-file-name="class-widget-job-more-jobs.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content/themes/jobify/inc/integrations/wp-job-manager/widgets/class-widget-job-more-jobs.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="58" column="174" selection-start="1624" selection-end="1624" vertical-scroll-proportion="-28.75" vertical-offset="180" max-vertical-offset="1125">
+            <state line="58" column="174" selection-start="1624" selection-end="1624" vertical-scroll-proportion="-13.083333" vertical-offset="556" max-vertical-offset="1125">
               <folding />
             </state>
           </provider>
@@ -100,8 +100,8 @@
         <option value="$PROJECT_DIR$/content/plugins/wp-job-manager/templates/job-listings-end.php" />
         <option value="$PROJECT_DIR$/content/plugins/wp-job-manager/templates/job-listings-start.php" />
         <option value="$PROJECT_DIR$/content/plugins/wp-job-manager/templates/content-job_listing.php" />
-        <option value="$PROJECT_DIR$/content/themes/jobify/sidebar-single-job_listing.php" />
         <option value="$PROJECT_DIR$/content/themes/jobify/content-single-job.php" />
+        <option value="$PROJECT_DIR$/content/themes/jobify/sidebar-single-job_listing.php" />
       </list>
     </option>
   </component>
@@ -597,26 +597,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/themes/jobify/inc/integrations/wp-job-manager/widgets/class-widget-job-more-jobs.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="174" selection-start="1624" selection-end="1624" vertical-scroll-proportion="-28.75" vertical-offset="180" max-vertical-offset="1125">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content/themes/jobify/content.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.6243655" vertical-offset="369" max-vertical-offset="960">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/themes/jobify/sidebar-single-job_listing.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="0" selection-start="1271" selection-end="1271" vertical-scroll-proportion="-15.583333" vertical-offset="241" max-vertical-offset="900">
-          <folding>
-            <element signature="e#1422#1475#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -638,9 +622,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/content/themes/jobify/content-single-job.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="21" selection-start="2226" selection-end="2226" vertical-scroll-proportion="0.8892989" vertical-offset="328" max-vertical-offset="990">
+        <state line="59" column="21" selection-start="2226" selection-end="2226" vertical-scroll-proportion="-8.568627" vertical-offset="373" max-vertical-offset="990">
           <folding>
             <element signature="n#style#0;n#ins#0;n#div#0;n#article#0;n#div#1;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/themes/jobify/inc/integrations/wp-job-manager/widgets/class-widget-job-more-jobs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="58" column="174" selection-start="1624" selection-end="1624" vertical-scroll-proportion="-13.083333" vertical-offset="556" max-vertical-offset="1125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/themes/jobify/sidebar-single-job_listing.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="64" column="13" selection-start="2057" selection-end="2057" vertical-scroll-proportion="0.94727594" vertical-offset="391" max-vertical-offset="1080">
+          <folding>
+            <element signature="e#1422#1475#0" expanded="true" />
+            <element signature="e#1826#1879#0" expanded="true" />
           </folding>
         </state>
       </provider>
