@@ -34,7 +34,7 @@ global $post;
 
 			<?php do_action( 'single_job_listing_meta_end' ); ?>
 		</ul>
-sjhgsjkdgkjsdgklsdhgkjs
+
 		<?php do_action( 'single_job_listing_meta_after' ); ?>
 	</h2>
 </div>
@@ -42,6 +42,7 @@ sjhgsjkdgkjsdgklsdhgkjs
 <div id="content" class="container" role="main">
 	<article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
 		<div class="entry-content">
+            sjhgsjkdgkjsdgklsdhgkjs
 			<?php if ( 'preview' == $post->post_status ) : ?>
 				<?php get_job_manager_template_part( 'content-single', 'job_listing' ); ?>
 			<?php else : ?>
