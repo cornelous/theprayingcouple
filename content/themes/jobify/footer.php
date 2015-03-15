@@ -35,7 +35,7 @@
 <!--				<div class="container">-->
 <!--					<div class="site-info">-->
 <!--						--><?php //echo apply_filters( 'jobify_footer_copyright', sprintf( __( '&copy; %1$s %2$s &mdash; All Rights Reserved', 'jobify' ), date( 'Y' ), get_bloginfo( 'name' ) ) ); ?>
-<!--					</div><!-- .site-info -->-->
+<!--					</div><!-- .site-info -->
 <!---->
 <!--					<a href="#top" class="btt"><i class="icon-up-circled"></i></a>-->
 <!---->
@@ -56,8 +56,8 @@
 //					?>
 <!--				</div>-->
 <!--			</div>-->
-<!--		</footer><!-- #colophon -->-->
-<!--	</div><!-- #page -->-->
+<!--		</footer><!-- #colophon -->
+<!--	</div><!-- #page -->
 
 	<?php //wp_footer(); ?>
 
