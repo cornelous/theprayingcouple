@@ -34,13 +34,10 @@ global $post;
 
 			<?php do_action( 'single_job_listing_meta_end' ); ?>
 		</ul>
-
+sjhgsjkdgkjsdgklsdhgkjs
 		<?php do_action( 'single_job_listing_meta_after' ); ?>
 	</h2>
-    kxhklnlkxhclkxnclxkn
 </div>
-
-tawanda tawanda
 
 <div id="content" class="container" role="main">
 	<article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
