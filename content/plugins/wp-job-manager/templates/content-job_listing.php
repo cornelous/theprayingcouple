@@ -9,7 +9,7 @@
 			</div>
 		</div>
 		<div class="location">
-			<?php the_job_location( false ); ?>
+			<?php the_job_location( true ); ?>
 		</div>
 		<ul class="meta">
 			<?php do_action( 'job_listing_meta_start' ); ?>
