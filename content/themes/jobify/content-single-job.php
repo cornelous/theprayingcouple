@@ -40,6 +40,8 @@ global $post;
     kxhklnlkxhclkxnclxkn
 </div>
 
+tawanda tawanda
+
 <div id="content" class="container" role="main">
 	<article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
 		<div class="entry-content">
