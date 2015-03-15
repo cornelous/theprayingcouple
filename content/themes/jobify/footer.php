@@ -20,16 +20,16 @@
 		</div>
 		<?php endif; ?>
 
-		<footer id="colophon" class="site-footer" role="contentinfo">
-			<?php if ( is_active_sidebar( 'widget-area-footer' ) ) : ?>
-			<div class="footer-widgets">
-				<div class="container">
-					<div class="row">
-						<?php dynamic_sidebar( 'widget-area-footer' ); ?>
-					</div>
-				</div>
-			</div>
-			<?php endif; ?>
+<!--		<footer id="colophon" class="site-footer" role="contentinfo">-->
+<!--			--><?php //if ( is_active_sidebar( 'widget-area-footer' ) ) : ?>
+<!--			<div class="footer-widgets">-->
+<!--				<div class="container">-->
+<!--					<div class="row">-->
+<!--						--><?php //dynamic_sidebar( 'widget-area-footer' ); ?>
+<!--					</div>-->
+<!--				</div>-->
+<!--			</div>-->
+<!--			--><?php //endif; ?>
 
 <!--			<div class="copyright">-->
 <!--				<div class="container">-->
@@ -60,7 +60,7 @@
 <!--	</div><!-- #page -->-->
 
 	<?php //wp_footer(); ?>
-            
+
             <!-- Start of StatCounter Code for Default Guide -->
             <script type="text/javascript">
                 var sc_project=10343143;
