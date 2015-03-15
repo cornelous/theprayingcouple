@@ -41,7 +41,7 @@ $args = array(
 	<?php endif; ?>
 
 	<?php do_action( 'single_job_listing_info_after' ); ?>
-    
+
     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     <!-- 336x280 -->
     <ins class="adsbygoogle"

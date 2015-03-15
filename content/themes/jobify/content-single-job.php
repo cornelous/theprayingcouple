@@ -42,14 +42,22 @@ global $post;
 <div id="content" class="container" role="main">
 	<article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
 		<div class="entry-content">
-            sjhgsjkdgkjsdgklsdhgkjs
+
 			<?php if ( 'preview' == $post->post_status ) : ?>
 				<?php get_job_manager_template_part( 'content-single', 'job_listing' ); ?>
 			<?php else : ?>
 				<?php the_content(); ?>
 			<?php endif; ?>
 
-            skhsklhdsklhdks
+            <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+            <!-- 728x90 -->
+            <ins class="adsbygoogle"
+                 style="display:inline-block;width:728px;height:90px"
+                 data-ad-client="ca-pub-8405479344707225"
+                 data-ad-slot="7355681593"></ins>
+            <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
 
 			<?php get_template_part( 'content-single-job', 'related' ); ?>
 		</div>
