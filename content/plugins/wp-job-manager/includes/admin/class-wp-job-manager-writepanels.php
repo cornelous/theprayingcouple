@@ -29,7 +29,7 @@ class WP_Job_Manager_Writepanels {
 		$fields = array(
 			'_job_location' => array(
 				'label' => __( 'Location', 'wp-job-manager' ),
-				'placeholder' => __( 'e.g. "London"', 'wp-job-manager' ),
+				'placeholder' => __( 'e.g. "Capetown"', 'wp-job-manager' ),
 				'description' => __( 'Leave this blank if the location is not important', 'wp-job-manager' ),
 				'priority'    => 1
 			),
