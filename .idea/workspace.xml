@@ -23,102 +23,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="content-widget-job_listing.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/plugins/wp-job-manager/templates/content-widget-job_listing.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="255">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="job-listings-end.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/plugins/wp-job-manager/templates/job-listings-end.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="90">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="job-listings-start.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/plugins/wp-job-manager/templates/job-listings-start.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="25" selection-start="25" selection-end="25" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="90">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="job-pagination.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/plugins/wp-job-manager/templates/job-pagination.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="480">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="sidebar-single-job_listing.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/content/themes/jobify/sidebar-single-job_listing.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="13" selection-start="1653" selection-end="1653" vertical-scroll-proportion="0.81142855" vertical-offset="324" max-vertical-offset="900">
+            <state line="52" column="13" selection-start="1653" selection-end="1653" vertical-scroll-proportion="0.7461929" vertical-offset="309" max-vertical-offset="900">
               <folding>
                 <element signature="e#1422#1475#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="content-single-job_listing.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/plugins/wp-job-manager/templates/content-single-job_listing.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="585">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="content-single-job_listing-company.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/plugins/wp-job-manager/templates/content-single-job_listing-company.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="375">
-              <folding>
-                <marker date="1426366440000" expanded="true" signature="259:755" placeholder="..." />
-                <marker date="1426366440000" expanded="true" signature="308:653" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="content-single-job_listing-meta.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/plugins/wp-job-manager/templates/content-single-job_listing-meta.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="450">
-              <folding>
-                <marker date="1426366440000" expanded="true" signature="200:1095" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="content-summary-job_listing.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/plugins/wp-job-manager/templates/content-summary-job_listing.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="330">
-              <folding>
-                <marker date="1426366440000" expanded="true" signature="66:709" placeholder="..." />
-                <marker date="1426366440000" expanded="true" signature="451:704" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/themes/jobify/header.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="28" selection-start="573" selection-end="581" vertical-scroll-proportion="0.0" vertical-offset="142" max-vertical-offset="1125">
-              <folding />
             </state>
           </provider>
         </entry>
@@ -482,7 +393,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/content/plugins/wp-job-manager/wp-job-manager-template.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="9375" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="9375">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/content/plugins/wp-job-manager/templates/job-application.php">
@@ -520,13 +433,6 @@
         <state line="58" column="174" selection-start="1624" selection-end="1624" vertical-scroll-proportion="0.56852794" vertical-offset="534" max-vertical-offset="1125" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/themes/jobify/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="28" selection-start="573" selection-end="581" vertical-scroll-proportion="0.0" vertical-offset="142" max-vertical-offset="1125">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content/plugins/wp-job-manager/includes/class-wp-job-manager-widgets.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-8.015818" vertical-offset="4561" max-vertical-offset="5130">
@@ -558,35 +464,34 @@
     <entry file="file://$PROJECT_DIR$/content/plugins/wp-job-manager/templates/content-single-job_listing-company.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="593">
-          <folding>
-            <marker date="1426366440000" expanded="true" signature="259:755" placeholder="..." />
-            <marker date="1426366440000" expanded="true" signature="308:653" placeholder="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/content/plugins/wp-job-manager/templates/content-single-job_listing-meta.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="593">
-          <folding>
-            <marker date="1426366440000" expanded="true" signature="200:1095" placeholder="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/content/plugins/wp-job-manager/templates/content-summary-job_listing.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="571">
-          <folding>
-            <marker date="1426366440000" expanded="true" signature="66:709" placeholder="..." />
-            <marker date="1426366440000" expanded="true" signature="451:704" placeholder="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/plugins/wp-job-manager/templates/content-widget-job_listing.php">
+    <entry file="file://$PROJECT_DIR$/content/themes/jobify/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="615">
+        <state line="22" column="28" selection-start="573" selection-end="581" vertical-scroll-proportion="0.33040422" vertical-offset="37" max-vertical-offset="1020">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/plugins/wp-job-manager/templates/job-listings-start.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="25" selection-start="25" selection-end="25" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="582">
           <folding />
         </state>
       </provider>
@@ -598,9 +503,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/plugins/wp-job-manager/templates/job-listings-start.php">
+    <entry file="file://$PROJECT_DIR$/content/plugins/wp-job-manager/templates/content-widget-job_listing.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="25" selection-start="25" selection-end="25" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="582">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="615">
           <folding />
         </state>
       </provider>
@@ -614,7 +519,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/content/themes/jobify/sidebar-single-job_listing.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="13" selection-start="1653" selection-end="1653" vertical-scroll-proportion="0.81142855" vertical-offset="324" max-vertical-offset="900">
+        <state line="52" column="13" selection-start="1653" selection-end="1653" vertical-scroll-proportion="0.7461929" vertical-offset="309" max-vertical-offset="900">
           <folding>
             <element signature="e#1422#1475#0" expanded="true" />
           </folding>
