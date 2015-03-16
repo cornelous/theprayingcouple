@@ -9,47 +9,35 @@
 		},
 
 		init: function() {
+			this.cacheElements();
 			this.bindEvents();
+		},
+
+		cacheElements: function() {
+			this.cache.$location = this.cache.$search_jobs.find( '.search_location' );
+			this.cache.$regions = this.cache.$search_jobs.find( '.search_region' ).first();
 		},
 
 		bindEvents: function() {
 			var self = this;
 
 			this.cache.$document.on( 'ready', function() {
-				self.addSubmission();
 				self.addRegions();
 				self.updateResults();
 				self.resetResults();
 			});
 		},
 
-		addSubmission: function() {
-			$( '#job_region' ).chosen();
-		},
-
 		addRegions: function() {
-			this.cache.$search_jobs.each(function(i, el) {
-				$(this).find( '.search_region' ).chosen();
-			});
-
-			this.cache.$search_jobs.each(function(i, el) {
-				var location = $(this).find( '.search_location' );
-				location.html( '' );
-				location.removeClass( 'search_location' ).addClass( 'search_region' );
-
-				$(this).find( '#search_region_chosen' ).detach().appendTo(location);
-			});
+			this.cache.$location.html( '' );
+			this.cache.$regions.detach().appendTo( this.cache.$location );
 		},
 
 		updateResults: function() {
-			this.cache.$search_jobs.each(function(i, el) {
-				var region = $(this).find( '.search_region' );
+			this.cache.$regions.change(function() {
+				var target = jQuery(this).closest( 'div.job_listings' );
 
-				region.on( 'change', function() {
-					var target = $(this).closest( 'div.job_listings' );
-
-					target.trigger( 'update_results', [ 1, false ] );
-				});
+				target.trigger( 'update_results', [ 1, false ] );
 			});
 		},
 
