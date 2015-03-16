@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f69b955c-1408-4d1b-8c1f-8b9f3a590b5f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/themes/jobify/footer.php" afterPath="$PROJECT_DIR$/content/themes/jobify/footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/themes/jobify/header.php" afterPath="$PROJECT_DIR$/content/themes/jobify/header.php" />
     </list>
     <ignored path="careervanguard.co.za.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,10 +25,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="footer.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="footer.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content/themes/jobify/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="71" column="9" selection-start="2153" selection-end="2153" vertical-scroll-proportion="0.9492386" vertical-offset="384" max-vertical-offset="1065">
+            <state line="55" column="22" selection-start="1627" selection-end="1627" vertical-scroll-proportion="-13.375" vertical-offset="384" max-vertical-offset="1065">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/content/themes/jobify/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="25" column="0" selection-start="709" selection-end="709" vertical-scroll-proportion="0.4568528" vertical-offset="0" max-vertical-offset="1020">
               <folding />
             </state>
           </provider>
@@ -48,7 +57,6 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/content/themes/jobify-child/functions.php" />
-        <option value="$PROJECT_DIR$/content/themes/jobify/header.php" />
         <option value="$PROJECT_DIR$/content/plugins/wp-job-manager-resumes/includes/admin/class-wp-resume-manager-writepanels.php" />
         <option value="$PROJECT_DIR$/content/plugins/wp-job-manager-resumes/includes/forms/class-wp-resume-manager-form-submit-resume.php" />
         <option value="$PROJECT_DIR$/content/plugins/wp-job-manager/includes/admin/class-wp-job-manager-writepanels.php" />
@@ -59,6 +67,7 @@
         <option value="$PROJECT_DIR$/content/themes/jobify/content-single-job.php" />
         <option value="$PROJECT_DIR$/content/themes/jobify/sidebar-single-job_listing.php" />
         <option value="$PROJECT_DIR$/content/themes/jobify/footer.php" />
+        <option value="$PROJECT_DIR$/content/themes/jobify/header.php" />
       </list>
     </option>
   </component>
@@ -110,60 +119,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="careervanguard.co.za" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="careervanguard.co.za" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="careervanguard.co.za" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="content" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="careervanguard.co.za" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="careervanguard.co.za" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="content" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jobify" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="careervanguard.co.za" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="careervanguard.co.za" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="content" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -365,13 +320,6 @@
     <entry file="file://$PROJECT_DIR$/content/themes/jobify-child/functions.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="16" column="0" selection-start="289" selection-end="289" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="330">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/themes/jobify/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="0" selection-start="999" selection-end="999" vertical-scroll-proportion="0.0" vertical-offset="570" max-vertical-offset="1110">
           <folding />
         </state>
       </provider>
@@ -598,7 +546,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/content/themes/jobify/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="71" column="9" selection-start="2153" selection-end="2153" vertical-scroll-proportion="0.9492386" vertical-offset="384" max-vertical-offset="1065">
+        <state line="55" column="22" selection-start="1627" selection-end="1627" vertical-scroll-proportion="-13.375" vertical-offset="384" max-vertical-offset="1065">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/themes/jobify/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="0" selection-start="709" selection-end="709" vertical-scroll-proportion="0.4568528" vertical-offset="0" max-vertical-offset="1020">
           <folding />
         </state>
       </provider>

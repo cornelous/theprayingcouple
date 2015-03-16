@@ -20,6 +20,7 @@
 <head>
 	<meta charset="<?php bloginfo( 'charset' ); ?>" />
 	<meta name="viewport" content="width=device-width" />
+    <meta property="og:image" content="http://careervanguard.co.za/content/images/biglogo.jpg" />
 
 	<title><?php wp_title( '|', true, 'right' ); ?></title>
 
