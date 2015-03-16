@@ -150,7 +150,7 @@ class WP_Job_Manager_Form_Submit_Job extends WP_Job_Manager_Form {
 					'description' => __( 'Leave this blank if the location is not important', 'wp-job-manager' ),
 					'type'        => 'text',
 					'required'    => false,
-					'placeholder' => __( 'e.g. "Capetown"', 'wp-job-manager' ),
+					'placeholder' => __( 'e.g. "London"', 'wp-job-manager' ),
 					'priority'    => 2
 				),
 				'job_type' => array(
