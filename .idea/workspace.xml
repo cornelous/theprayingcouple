@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f69b955c-1408-4d1b-8c1f-8b9f3a590b5f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/themes/jobify/sidebar-single-job_listing.php" afterPath="$PROJECT_DIR$/content/themes/jobify/sidebar-single-job_listing.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="careervanguard.co.za.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -65,8 +64,10 @@
       <file leaf-file-name="sidebar-single-job_listing.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/content/themes/jobify/sidebar-single-job_listing.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="44" column="0" selection-start="1272" selection-end="1272" vertical-scroll-proportion="0.71428573" vertical-offset="255" max-vertical-offset="780">
-              <folding />
+            <state line="52" column="13" selection-start="1653" selection-end="1653" vertical-scroll-proportion="0.71428573" vertical-offset="375" max-vertical-offset="900">
+              <folding>
+                <element signature="e#1422#1475#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -615,8 +616,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/content/themes/jobify/sidebar-single-job_listing.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="0" selection-start="1272" selection-end="1272" vertical-scroll-proportion="0.71428573" vertical-offset="255" max-vertical-offset="780">
-          <folding />
+        <state line="52" column="13" selection-start="1653" selection-end="1653" vertical-scroll-proportion="0.71428573" vertical-offset="375" max-vertical-offset="900">
+          <folding>
+            <element signature="e#1422#1475#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
