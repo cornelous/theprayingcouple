@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f69b955c-1408-4d1b-8c1f-8b9f3a590b5f" name="Default" comment="" />
+    <list default="true" id="f69b955c-1408-4d1b-8c1f-8b9f3a590b5f" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/plugins/wp-job-manager/includes/class-wp-job-manager-post-types.php" afterPath="$PROJECT_DIR$/content/plugins/wp-job-manager/includes/class-wp-job-manager-post-types.php" />
+    </list>
     <ignored path="careervanguard.co.za.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,12 +25,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="sidebar-single-job_listing.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="sidebar-single-job_listing.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content/themes/jobify/sidebar-single-job_listing.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="13" selection-start="1653" selection-end="1653" vertical-scroll-proportion="0.7461929" vertical-offset="309" max-vertical-offset="900">
+            <state line="34" column="4" selection-start="979" selection-end="979" vertical-scroll-proportion="-7.125" vertical-offset="309" max-vertical-offset="900">
               <folding>
                 <element signature="e#1422#1475#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="class-wp-job-manager-post-types.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/content/plugins/wp-job-manager/includes/class-wp-job-manager-post-types.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="201" column="81" selection-start="8987" selection-end="8987" vertical-scroll-proportion="0.33333334" vertical-offset="2827" max-vertical-offset="8880">
+              <folding>
+                <marker date="1426556169894" expanded="true" signature="13330:13639" placeholder="SELECT postm..." />
+                <marker date="1426556169894" expanded="true" signature="14049:14206" placeholder="SELECT posts..." />
+                <marker date="1426556169894" expanded="true" signature="14675:14829" placeholder="SELECT posts..." />
               </folding>
             </state>
           </provider>
@@ -59,6 +74,7 @@
         <option value="$PROJECT_DIR$/content/themes/jobify/header.php" />
         <option value="$PROJECT_DIR$/content/themes/jobify/footer.php" />
         <option value="$PROJECT_DIR$/content/themes/jobify/sidebar-single-job_listing.php" />
+        <option value="$PROJECT_DIR$/content/plugins/wp-job-manager/includes/class-wp-job-manager-post-types.php" />
       </list>
     </option>
   </component>
@@ -190,7 +206,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
+              <option name="myItemId" value="includes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -333,7 +349,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/content/plugins/wp-job-manager/includes/class-wp-job-manager-post-types.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="199" column="52" selection-start="8898" selection-end="8898" vertical-scroll-proportion="0.0" vertical-offset="2842" max-vertical-offset="8880" />
+        <state line="199" column="52" selection-start="8898" selection-end="8898" vertical-scroll-proportion="0.0" vertical-offset="2842" max-vertical-offset="8880">
+          <folding>
+            <marker date="1426556169894" expanded="true" signature="13330:13639" placeholder="SELECT postm..." />
+            <marker date="1426556169894" expanded="true" signature="14049:14206" placeholder="SELECT posts..." />
+            <marker date="1426556169894" expanded="true" signature="14675:14829" placeholder="SELECT posts..." />
+          </folding>
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/content/plugins/wp-job-manager-resumes/includes/admin/class-wp-resume-manager-writepanels.php">
@@ -374,11 +396,6 @@
     <entry file="file://$PROJECT_DIR$/content/plugins/wp-job-manager/includes/forms/class-wp-job-manager-form-submit-job.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="152" column="42" selection-start="4549" selection-end="4549" vertical-scroll-proportion="0.0" vertical-offset="2237" max-vertical-offset="13710" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/plugins/wp-job-manager/includes/class-wp-job-manager-post-types.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="199" column="52" selection-start="8898" selection-end="8898" vertical-scroll-proportion="0.2513181" vertical-offset="2842" max-vertical-offset="8880" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/content/plugins/wp-job-manager-application-deadline/wp-job-manager-application-deadline.php">
@@ -519,9 +536,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/content/themes/jobify/sidebar-single-job_listing.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="13" selection-start="1653" selection-end="1653" vertical-scroll-proportion="0.7461929" vertical-offset="309" max-vertical-offset="900">
+        <state line="34" column="4" selection-start="979" selection-end="979" vertical-scroll-proportion="-7.125" vertical-offset="309" max-vertical-offset="900">
           <folding>
             <element signature="e#1422#1475#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/plugins/wp-job-manager/includes/class-wp-job-manager-post-types.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="201" column="81" selection-start="8987" selection-end="8987" vertical-scroll-proportion="0.33333334" vertical-offset="2827" max-vertical-offset="8880">
+          <folding>
+            <marker date="1426556169894" expanded="true" signature="13330:13639" placeholder="SELECT postm..." />
+            <marker date="1426556169894" expanded="true" signature="14049:14206" placeholder="SELECT posts..." />
+            <marker date="1426556169894" expanded="true" signature="14675:14829" placeholder="SELECT posts..." />
           </folding>
         </state>
       </provider>
