@@ -32,7 +32,7 @@ define( 'YOURLS_DB_PREFIX', 'yourls_' );
 
 /** YOURLS installation URL -- all lowercase and with no trailing slash.
  ** If you define it to "http://site.com", don't use "http://www.site.com" in your browser (and vice-versa) */
-define( 'YOURLS_SITE', 'http://careervanguard.co.za' );
+define( 'YOURLS_SITE', 'http://careervanguard.co.za/shorty' );
 
 /** Timezone GMT offset */
 define( 'YOURLS_HOURS_OFFSET', 0 ); 
