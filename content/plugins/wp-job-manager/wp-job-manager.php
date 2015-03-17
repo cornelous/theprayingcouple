@@ -66,12 +66,10 @@ class WP_Job_Manager {
 		add_action( 'wp_enqueue_scripts', array( $this, 'frontend_scripts' ) );
 		add_action( 'admin_init', array( $this, 'updater' ) );
         add_action('init', 'my_custom_init');
-
+        function my_custom_init() {
+            add_post_type_support( 'job_listing', 'publicize' );
+        }
 	}
-
-    public function my_custom_init() {
-        add_post_type_support( 'job_listing', 'publicize' );
-    }
 
 	/**
 	 * Handle Updates
