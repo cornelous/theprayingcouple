@@ -8,17 +8,17 @@ lock '3.4.0'
 # Setup WordPress
 ############################################
 
-set :wp_user, "careervanguard" # The admin username
-set :wp_email, "careervanguard@gmail.com" # The admin email address
-set :wp_sitename, "Career Vanguard" # The site title
-set :wp_localurl, "http://localhost/careervanguard" # Your local environment URL
+set :wp_user, "couples" # The admin username
+set :wp_email, "couples@theprayingcouple.com" # The admin email address
+set :wp_sitename, "The Praying Couple" # The site title
+set :wp_localurl, "http://localhost/theprayingcouple" # Your local environment URL
 
 ############################################
 # Setup project
 ############################################
 
-set :application, "careervanguard"
-set :repo_url, "https://github.com/cornelous/careervanguard.git"
+set :application, "theprayingcouple"
+set :repo_url, "https://github.com/cornelous/theprayingcouple.git"
 set :scm, :git
 
 set :git_strategy, SubmoduleStrategy
