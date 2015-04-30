@@ -1520,7 +1520,7 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/content/themes/jobify/taxonomy-job_listing_category.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/content/themes/jobify/taxonomy-resume_category.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/content/themes/jobify/woocommerce.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/themes/supernews/style.css" afterPath="$PROJECT_DIR$/content/themes/supernews/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/themes/supernews/style.min.css" afterPath="$PROJECT_DIR$/content/themes/supernews/style.min.css" />
     </list>
     <ignored path="careervanguard.co.za.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -1585,10 +1585,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content/themes/supernews/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4759" column="21" selection-start="90730" selection-end="90730" vertical-scroll-proportion="0.1378026" vertical-offset="71311" max-vertical-offset="100470">
+            <state line="4759" column="21" selection-start="90730" selection-end="90730" vertical-scroll-proportion="-1.3214285" vertical-offset="71311" max-vertical-offset="100470">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.min.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/content/themes/supernews/style.min.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="28" selection-start="197" selection-end="197" vertical-scroll-proportion="0.1396648" vertical-offset="0" max-vertical-offset="537">
               <folding />
             </state>
           </provider>
@@ -1640,8 +1649,8 @@
         <option value="$PROJECT_DIR$/content/plugins/wp-job-manager/wp-job-manager.php" />
         <option value="$PROJECT_DIR$/content/themes/jobify/footer.php" />
         <option value="$PROJECT_DIR$/content/themes/supernews/assets/css/colors/default.css" />
-        <option value="$PROJECT_DIR$/content/themes/supernews/style.min.css" />
         <option value="$PROJECT_DIR$/content/themes/supernews/style.css" />
+        <option value="$PROJECT_DIR$/content/themes/supernews/style.min.css" />
       </list>
     </option>
   </component>
@@ -2083,16 +2092,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/themes/supernews/style.min.css">
+    <entry file="file://$PROJECT_DIR$/content/themes/supernews/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="12199" selection-start="13092" selection-end="13099" vertical-scroll-proportion="0.4770318" vertical-offset="0" max-vertical-offset="566">
+        <state line="4759" column="21" selection-start="90730" selection-end="90730" vertical-scroll-proportion="-1.3214285" vertical-offset="71311" max-vertical-offset="100470">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/themes/supernews/style.css">
+    <entry file="file://$PROJECT_DIR$/content/themes/supernews/style.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4759" column="21" selection-start="90730" selection-end="90730" vertical-scroll-proportion="0.1378026" vertical-offset="71311" max-vertical-offset="100470">
+        <state line="5" column="28" selection-start="197" selection-end="197" vertical-scroll-proportion="0.1396648" vertical-offset="0" max-vertical-offset="537">
           <folding />
         </state>
       </provider>
