@@ -28,12 +28,12 @@ ul.products li.product a:hover h3,
 .header-search a:hover,
 #secondary .widget_tabs #tab3 li a:hover strong,
 .entry-footer .author-bio .name a:hover {
-	color: #0099CC;
+	color: #E3228C;
 }
 .widget_tabs .entry-title a:hover,
 .posts .cat-posts .view-more a,
 .posts .cat-posts a:hover .entry-title {
-	color: #0099CC !important;
+	color: #E3228C !important;
 }
 
 /* Link Hover */
@@ -55,7 +55,7 @@ table.cart td.product-name a:hover {
 /* Icon Hover */
 li a:hover .fa-star,
 li.active .fa-star {
-	color: #0099cc;
+	color: #E3228C;
 }
 li a:hover .fa-clock-o,
 li.active .fa-clock-o {
@@ -67,7 +67,7 @@ li.active .fa-comments {
 }
 li a:hover .fa-tags,
 li.active .fa-tags {
-	color: #37b6bd;
+	color: #E3228C;
 }
 /**
  * 2.0 Background
@@ -86,7 +86,7 @@ a.button,
 button, 
 input[type=button], 
 input[type=submit] {
-	background-color: #0099CC;
+	background-color: #E3228C;
 }
 /**
  * 3.0 Border Color
@@ -95,5 +95,5 @@ input[type=submit] {
 #featured-content .jcarousel-control-prev:hover,
 #featured-content .jcarousel-control-next:hover,
 .see-all a:hover {
-	border-color: #0099CC;
+	border-color: #E3228C;
 }
