@@ -1520,7 +1520,6 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/content/themes/jobify/taxonomy-job_listing_category.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/content/themes/jobify/taxonomy-resume_category.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/content/themes/jobify/woocommerce.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/themes/supernews/assets/css/colors/default.css" afterPath="$PROJECT_DIR$/content/themes/supernews/assets/css/colors/default.css" />
     </list>
     <ignored path="careervanguard.co.za.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -1579,7 +1578,7 @@
       <file leaf-file-name="default.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/content/themes/supernews/assets/css/colors/default.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="69" column="18" selection-start="1768" selection-end="1768" vertical-scroll-proportion="0.6433566" vertical-offset="667" max-vertical-offset="1575">
+            <state line="45" column="23" selection-start="1291" selection-end="1291" vertical-scroll-proportion="0.10191083" vertical-offset="611" max-vertical-offset="1575">
               <folding />
             </state>
           </provider>
@@ -1980,7 +1979,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/content/themes/supernews/assets/css/colors/default.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="69" column="18" selection-start="1768" selection-end="1768" vertical-scroll-proportion="0.6433566" vertical-offset="667" max-vertical-offset="1575">
+        <state line="45" column="23" selection-start="1291" selection-end="1291" vertical-scroll-proportion="0.10191083" vertical-offset="611" max-vertical-offset="1575">
           <folding />
         </state>
       </provider>
