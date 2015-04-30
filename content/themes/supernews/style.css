@@ -1281,7 +1281,7 @@ article.sticky .sticky-post {
 }
 
 #featured-content .jcarousel-pagination-0 a.active {
-  background-color: #ff6644;
+  background-color: #E3228C;
 }
 
 #featured-content .jcarousel-control-prev,
@@ -4764,7 +4764,7 @@ input[type="submit"] {
   font-size: 12px;
   padding: .75em 1em;
   border: 0;
-  border-bottom: .24em solid #106e9f;
+  border-bottom: .24em solid #E3228C;
   border-radius: .125em;
   -webkit-text-stroke: 0;
   cursor: pointer;

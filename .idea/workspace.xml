@@ -1520,8 +1520,7 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/content/themes/jobify/taxonomy-job_listing_category.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/content/themes/jobify/taxonomy-resume_category.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/content/themes/jobify/woocommerce.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/themes/supernews/style.min.css" afterPath="$PROJECT_DIR$/content/themes/supernews/style.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/themes/supernews/style.css" afterPath="$PROJECT_DIR$/content/themes/supernews/style.css" />
     </list>
     <ignored path="careervanguard.co.za.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -1547,7 +1546,7 @@
       <file leaf-file-name="deploy.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/deploy.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="602" max-vertical-offset="1200">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="11.803922" vertical-offset="602" max-vertical-offset="1200">
               <folding />
             </state>
           </provider>
@@ -1586,19 +1585,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/content/themes/supernews/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="99877" max-vertical-offset="100470">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.min.css" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/content/themes/supernews/style.min.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="5561" selection-start="6461" selection-end="6461" vertical-scroll-proportion="0.4770318" vertical-offset="0" max-vertical-offset="566">
+            <state line="4759" column="21" selection-start="90730" selection-end="90730" vertical-scroll-proportion="0.1378026" vertical-offset="71311" max-vertical-offset="100470">
               <folding />
             </state>
           </provider>
@@ -1651,6 +1641,7 @@
         <option value="$PROJECT_DIR$/content/themes/jobify/footer.php" />
         <option value="$PROJECT_DIR$/content/themes/supernews/assets/css/colors/default.css" />
         <option value="$PROJECT_DIR$/content/themes/supernews/style.min.css" />
+        <option value="$PROJECT_DIR$/content/themes/supernews/style.css" />
       </list>
     </option>
   </component>
@@ -2053,7 +2044,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/deploy.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="602" max-vertical-offset="1200">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="11.803922" vertical-offset="602" max-vertical-offset="1200">
           <folding />
         </state>
       </provider>
@@ -2092,16 +2083,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/themes/supernews/style.css">
+    <entry file="file://$PROJECT_DIR$/content/themes/supernews/style.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100470">
+        <state line="18" column="12199" selection-start="13092" selection-end="13099" vertical-scroll-proportion="0.4770318" vertical-offset="0" max-vertical-offset="566">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/themes/supernews/style.min.css">
+    <entry file="file://$PROJECT_DIR$/content/themes/supernews/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="5561" selection-start="6461" selection-end="6461" vertical-scroll-proportion="0.4770318" vertical-offset="0" max-vertical-offset="566">
+        <state line="4759" column="21" selection-start="90730" selection-end="90730" vertical-scroll-proportion="0.1378026" vertical-offset="71311" max-vertical-offset="100470">
           <folding />
         </state>
       </provider>
