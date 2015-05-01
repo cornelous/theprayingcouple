@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f69b955c-1408-4d1b-8c1f-8b9f3a590b5f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/themes/supernews/page-templates/teams.php" afterPath="$PROJECT_DIR$/content/themes/supernews/page-templates/teams.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/themes/supernews/style.min.css" afterPath="$PROJECT_DIR$/content/themes/supernews/style.min.css" />
     </list>
     <ignored path="careervanguard.co.za.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -61,7 +61,7 @@
       <file leaf-file-name="default.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content/themes/supernews/assets/css/colors/default.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="50" column="13" selection-start="1409" selection-end="1410" vertical-scroll-proportion="-7.148148" vertical-offset="557" max-vertical-offset="1575">
+            <state line="50" column="13" selection-start="1409" selection-end="1410" vertical-scroll-proportion="-8.259259" vertical-offset="527" max-vertical-offset="1575">
               <folding />
             </state>
           </provider>
@@ -76,19 +76,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.min.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="style.min.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/content/themes/supernews/style.min.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="42614" selection-start="43513" selection-end="43514" vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="420">
+            <state line="18" column="5556" selection-start="6456" selection-end="6456" vertical-scroll-proportion="0.4770318" vertical-offset="0" max-vertical-offset="566">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="teams.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="teams.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content/themes/supernews/page-templates/teams.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="74" column="35" selection-start="3451" selection-end="3451" vertical-scroll-proportion="0.36346865" vertical-offset="913" max-vertical-offset="1455">
+            <state line="74" column="35" selection-start="3451" selection-end="3451" vertical-scroll-proportion="-3.862745" vertical-offset="913" max-vertical-offset="1455">
               <folding />
             </state>
           </provider>
@@ -141,8 +141,8 @@
         <option value="$PROJECT_DIR$/content/themes/jobify/footer.php" />
         <option value="$PROJECT_DIR$/content/themes/supernews/assets/css/colors/default.css" />
         <option value="$PROJECT_DIR$/content/themes/supernews/style.css" />
-        <option value="$PROJECT_DIR$/content/themes/supernews/style.min.css" />
         <option value="$PROJECT_DIR$/content/themes/supernews/page-templates/teams.php" />
+        <option value="$PROJECT_DIR$/content/themes/supernews/style.min.css" />
       </list>
     </option>
   </component>
@@ -528,23 +528,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/content/themes/supernews/page-templates/teams.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="74" column="35" selection-start="3451" selection-end="3451" vertical-scroll-proportion="-3.862745" vertical-offset="913" max-vertical-offset="1455">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/content/themes/supernews/assets/css/colors/default.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="13" selection-start="1409" selection-end="1410" vertical-scroll-proportion="-7.148148" vertical-offset="557" max-vertical-offset="1575">
+        <state line="50" column="13" selection-start="1409" selection-end="1410" vertical-scroll-proportion="-8.259259" vertical-offset="527" max-vertical-offset="1575">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/content/themes/supernews/style.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="42614" selection-start="43513" selection-end="43514" vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="420">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/themes/supernews/page-templates/teams.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="74" column="35" selection-start="3451" selection-end="3451" vertical-scroll-proportion="0.36346865" vertical-offset="913" max-vertical-offset="1455">
+        <state line="18" column="5556" selection-start="6456" selection-end="6456" vertical-scroll-proportion="0.4770318" vertical-offset="0" max-vertical-offset="566">
           <folding />
         </state>
       </provider>
