@@ -35,7 +35,7 @@ get_header(); ?>
 
 							<?php if ( $teams->have_posts() ) : ?>
 
-								<h3>Our Team</h3>
+								<h3>Contributors</h3>
 
 								<div class="team-members">
 									<ul class="members">
