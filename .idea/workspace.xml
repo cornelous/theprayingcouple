@@ -1520,7 +1520,7 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/content/themes/jobify/taxonomy-job_listing_category.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/content/themes/jobify/taxonomy-resume_category.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/content/themes/jobify/woocommerce.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/themes/supernews/style.min.css" afterPath="$PROJECT_DIR$/content/themes/supernews/style.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/themes/supernews/style.css" afterPath="$PROJECT_DIR$/content/themes/supernews/style.css" />
     </list>
     <ignored path="careervanguard.co.za.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -1585,19 +1585,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/content/themes/supernews/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4759" column="21" selection-start="90730" selection-end="90730" vertical-scroll-proportion="-1.3214285" vertical-offset="71311" max-vertical-offset="100470">
+            <state line="3041" column="18" selection-start="51368" selection-end="51368" vertical-scroll-proportion="0.22718808" vertical-offset="45493" max-vertical-offset="100455">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.min.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="style.min.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content/themes/supernews/style.min.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="28" selection-start="197" selection-end="197" vertical-scroll-proportion="0.1396648" vertical-offset="0" max-vertical-offset="537">
+            <state line="5" column="28" selection-start="197" selection-end="197" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
               <folding />
             </state>
           </provider>
@@ -1649,8 +1649,8 @@
         <option value="$PROJECT_DIR$/content/plugins/wp-job-manager/wp-job-manager.php" />
         <option value="$PROJECT_DIR$/content/themes/jobify/footer.php" />
         <option value="$PROJECT_DIR$/content/themes/supernews/assets/css/colors/default.css" />
-        <option value="$PROJECT_DIR$/content/themes/supernews/style.css" />
         <option value="$PROJECT_DIR$/content/themes/supernews/style.min.css" />
+        <option value="$PROJECT_DIR$/content/themes/supernews/style.css" />
       </list>
     </option>
   </component>
@@ -1742,88 +1742,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="supernews" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="careervanguard.co.za" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theprayingcouple.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="content" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="supernews" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="careervanguard.co.za" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theprayingcouple.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="content" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="supernews" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="careervanguard.co.za" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theprayingcouple.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="content" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="supernews" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="admin" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -2092,16 +2010,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/themes/supernews/style.css">
+    <entry file="file://$PROJECT_DIR$/content/themes/supernews/style.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4759" column="21" selection-start="90730" selection-end="90730" vertical-scroll-proportion="-1.3214285" vertical-offset="71311" max-vertical-offset="100470">
+        <state line="5" column="28" selection-start="197" selection-end="197" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/themes/supernews/style.min.css">
+    <entry file="file://$PROJECT_DIR$/content/themes/supernews/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="28" selection-start="197" selection-end="197" vertical-scroll-proportion="0.1396648" vertical-offset="0" max-vertical-offset="537">
+        <state line="3041" column="18" selection-start="51368" selection-end="51368" vertical-scroll-proportion="0.22718808" vertical-offset="45493" max-vertical-offset="100455">
           <folding />
         </state>
       </provider>
