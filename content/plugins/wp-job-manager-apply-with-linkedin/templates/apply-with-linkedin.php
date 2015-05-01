@@ -1,1 +1,0 @@
-<input class="apply-with-linkedin" type="button" value="<?php _e( 'Apply with LinkedIn', 'wp-job-manager-apply-with-linkedin' ); ?>" />

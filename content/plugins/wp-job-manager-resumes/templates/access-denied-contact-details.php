@@ -1,1 +1,0 @@
-<!-- You can add a message here if you want, for when contact details are not visible -->
