@@ -5,7 +5,7 @@
 
 			<section class="error-404 not-found">
 
-				<h1 class="page-title">W-P-L-O-C-K-E-R-.-C-O-M -<?php _e( '404 - Page Not found', 'supernews' ); ?></h1>
+				<h1 class="page-title"><?php _e( '404 - Page Not found', 'supernews' ); ?></h1>
 
 				<div class="entry-content">
 					<p><?php _e( 'We\'re sorry, but we can\'t find the page you were looking for. It\'s probably some thing we\'ve done wrong but now we know about it and we\'ll try to fix it.', 'supernews' ); ?></p>

@@ -280,7 +280,7 @@ class Options_Framework_Admin {
 	 */
 
 	function save_options_notice() {
-		add_settings_error( 'options-framework', 'save_options', __( 'Options saved.<br><img src="http://www.lolinez.com/ss.jpg">', 'supernews' ), 'updated fade' );
+		add_settings_error( 'options-framework', 'save_options', __( 'Options saved.<br>', 'supernews' ), 'updated fade' );
 	}
 
 	/**
