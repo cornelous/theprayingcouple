@@ -75,7 +75,13 @@
         <entry file="file://$PROJECT_DIR$/content/themes/supernews/404.php">
           <provider selected="true" editor-type-id="text-editor">
             <state line="23" column="22" selection-start="917" selection-end="917" vertical-scroll-proportion="-14.375" vertical-offset="0" max-vertical-offset="435">
-              <folding />
+              <folding>
+                <marker date="1431520845707" expanded="true" signature="63:814" placeholder="..." />
+                <marker date="1431520845707" expanded="true" signature="112:792" placeholder="..." />
+                <marker date="1431520845707" expanded="true" signature="154:762" placeholder="..." />
+                <marker date="1431520845707" expanded="true" signature="272:726" placeholder="..." />
+                <marker date="1431520845707" expanded="true" signature="484:715" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -83,7 +89,7 @@
       <file leaf-file-name="class-options-framework-admin.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/content/themes/supernews/admin/options/includes/class-options-framework-admin.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="290" column="55" selection-start="8214" selection-end="8214" vertical-scroll-proportion="0.31282952" vertical-offset="4082" max-vertical-offset="5175">
+            <state line="286" column="55" selection-start="8055" selection-end="8055" vertical-scroll-proportion="0.20738137" vertical-offset="4082" max-vertical-offset="5175">
               <folding />
             </state>
           </provider>
@@ -271,8 +277,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="24" width="1301" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="65" y="24" width="1301" height="744" extended-state="7" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -579,13 +585,19 @@
     <entry file="file://$PROJECT_DIR$/content/themes/supernews/404.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="23" column="22" selection-start="917" selection-end="917" vertical-scroll-proportion="-14.375" vertical-offset="0" max-vertical-offset="435">
-          <folding />
+          <folding>
+            <marker date="1431520845707" expanded="true" signature="63:814" placeholder="..." />
+            <marker date="1431520845707" expanded="true" signature="112:792" placeholder="..." />
+            <marker date="1431520845707" expanded="true" signature="154:762" placeholder="..." />
+            <marker date="1431520845707" expanded="true" signature="272:726" placeholder="..." />
+            <marker date="1431520845707" expanded="true" signature="484:715" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/content/themes/supernews/admin/options/includes/class-options-framework-admin.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="290" column="55" selection-start="8214" selection-end="8214" vertical-scroll-proportion="0.31282952" vertical-offset="4082" max-vertical-offset="5175">
+        <state line="286" column="55" selection-start="8055" selection-end="8055" vertical-scroll-proportion="0.20738137" vertical-offset="4082" max-vertical-offset="5175">
           <folding />
         </state>
       </provider>
