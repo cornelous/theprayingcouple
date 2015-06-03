@@ -9,7 +9,7 @@ lock '3.4.0'
 ############################################
 
 set :wp_user, "couples" # The admin username
-set :wp_email, "news@africainsideout.com" # The admin email address
+set :wp_email, "kreativeq@gmail.com" # The admin email address
 set :wp_sitename, "The Praying Couple" # The site title
 set :wp_localurl, "http://localhost/theprayingcouple" # Your local environment URL
 
