@@ -3075,7 +3075,7 @@ blockquote cite:before {
 
 #footer .widget ul li a,
 #footer .widget ul li a:visited {
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 #footer .widget_newsletter {
