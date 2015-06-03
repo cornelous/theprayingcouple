@@ -1,4 +1,4 @@
-# config valid only for Capistrano 3.1
+# config valid only for Capistrano 3.4
 lock '3.4.0'
 
 # require Slack config
@@ -9,7 +9,7 @@ lock '3.4.0'
 ############################################
 
 set :wp_user, "couples" # The admin username
-set :wp_email, "couples@theprayingcouple.com" # The admin email address
+set :wp_email, "news@africainsideout.com" # The admin email address
 set :wp_sitename, "The Praying Couple" # The site title
 set :wp_localurl, "http://localhost/theprayingcouple" # Your local environment URL
 
@@ -17,7 +17,7 @@ set :wp_localurl, "http://localhost/theprayingcouple" # Your local environment U
 # Setup project
 ############################################
 
-set :application, "theprayingcouple"
+set :application, "The Praying Couple"
 set :repo_url, "https://github.com/cornelous/theprayingcouple.git"
 set :scm, :git
 
@@ -34,7 +34,7 @@ set :ssh_options, {
   forward_agent: true
 }
 
-set :keep_releases, 5
+set :keep_releases, 3
 
 ############################################
 # Linked files and directories (symlinks)
