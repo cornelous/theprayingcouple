@@ -17,7 +17,7 @@ set :wp_localurl, "http://localhost/theprayingcouple" # Your local environment U
 # Setup project
 ############################################
 
-set :application, "The Praying Couple"
+set :application, "theprayingcouple"
 set :repo_url, "https://github.com/cornelous/theprayingcouple.git"
 set :scm, :git
 
