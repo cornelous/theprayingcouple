@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f69b955c-1408-4d1b-8c1f-8b9f3a590b5f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/themes/supernews/assets/css/colors/default.css" afterPath="$PROJECT_DIR$/content/themes/supernews/assets/css/colors/default.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/themes/supernews/style.css" afterPath="$PROJECT_DIR$/content/themes/supernews/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/themes/supernews/style.min.css" afterPath="$PROJECT_DIR$/content/themes/supernews/style.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="f69b955c-1408-4d1b-8c1f-8b9f3a590b5f" name="Default" comment="" />
     <ignored path="careervanguard.co.za.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,7 +26,7 @@
       <file leaf-file-name="production.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/deploy/production.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="22" selection-start="297" selection-end="297" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="660">
+            <state line="11" column="22" selection-start="297" selection-end="297" vertical-scroll-proportion="-0.0" vertical-offset="165" max-vertical-offset="660">
               <folding />
             </state>
           </provider>
@@ -52,37 +47,37 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="default.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/themes/supernews/assets/css/colors/default.css">
+      <file leaf-file-name="siteorigin-panels.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/plugins/siteorigin-panels/siteorigin-panels.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="54" column="16" selection-start="1513" selection-end="1513" vertical-scroll-proportion="-11.444445" vertical-offset="501" max-vertical-offset="1575">
+            <state line="1048" column="7" selection-start="39219" selection-end="39219" vertical-scroll-proportion="-4.9166665" vertical-offset="15452" max-vertical-offset="20235">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/themes/supernews/style.css">
+      <file leaf-file-name="front.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/plugins/siteorigin-panels/css/front.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3074" column="0" selection-start="51861" selection-end="51861" vertical-scroll-proportion="-6.4074073" vertical-offset="45937" max-vertical-offset="100455">
+            <state line="26" column="7" selection-start="448" selection-end="448" vertical-scroll-proportion="0.0" vertical-offset="598" max-vertical-offset="825">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.min.css" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/content/themes/supernews/style.min.css">
+      <file leaf-file-name="siteorigin-panels-live-editor.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/plugins/siteorigin-panels/js/siteorigin-panels-live-editor.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="0" selection-start="97522" selection-end="97522" vertical-scroll-proportion="0.58303887" vertical-offset="0" max-vertical-offset="566">
+            <state line="50" column="49" selection-start="1494" selection-end="1494" vertical-scroll-proportion="0.0" vertical-offset="617" max-vertical-offset="4890">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="404.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/themes/supernews/404.php">
+      <file leaf-file-name="siteorigin-panels-live-editor.min.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/content/plugins/siteorigin-panels/js/siteorigin-panels-live-editor.min.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="22" selection-start="917" selection-end="917" vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="435">
+            <state line="1" column="682" selection-start="683" selection-end="683" vertical-scroll-proportion="0.026269702" vertical-offset="0" max-vertical-offset="571">
               <folding />
             </state>
           </provider>
@@ -293,22 +288,6 @@
               <option name="myItemId" value="content" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="supernews" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -320,41 +299,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="content" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="supernews" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="colors" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="careervanguard.co.za" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tpc.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="content" />
+              <option name="myItemId" value="config" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -399,6 +344,7 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.6381679" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23907864" sideWeight="0.49923664" order="0" side_tool="false" content_ui="combo" />
@@ -410,7 +356,6 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.6381679" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -454,34 +399,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/content/themes/supernews/assets/css/colors/default.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="13" selection-start="1409" selection-end="1410" vertical-scroll-proportion="0.0" vertical-offset="750" max-vertical-offset="1575">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/themes/supernews/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="600" column="0" selection-start="11248" selection-end="11270" vertical-scroll-proportion="0.0" vertical-offset="8662" max-vertical-offset="100455">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/themes/supernews/style.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="7801" selection-start="8701" selection-end="8701" vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="420">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/themes/supernews/404.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="22" selection-start="917" selection-end="917" vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="435">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content/themes/supernews/admin/options/includes/class-options-framework-admin.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="286" column="55" selection-start="8055" selection-end="8055" vertical-scroll-proportion="0.0" vertical-offset="4290" max-vertical-offset="5265">
@@ -808,23 +725,51 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/themes/supernews/assets/css/colors/default.css">
+    <entry file="file://$PROJECT_DIR$/content/themes/supernews/style.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="16" selection-start="1513" selection-end="1513" vertical-scroll-proportion="-11.444445" vertical-offset="501" max-vertical-offset="1575">
+        <state line="22" column="0" selection-start="97522" selection-end="97522" vertical-scroll-proportion="-12.222222" vertical-offset="0" max-vertical-offset="420">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/content/themes/supernews/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3074" column="0" selection-start="51861" selection-end="51861" vertical-scroll-proportion="-6.4074073" vertical-offset="45937" max-vertical-offset="100455">
+        <state line="4078" column="15" selection-start="70165" selection-end="70167" vertical-scroll-proportion="-6.962963" vertical-offset="60982" max-vertical-offset="100455">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/themes/supernews/style.min.css">
+    <entry file="file://$PROJECT_DIR$/content/themes/supernews/assets/css/colors/default.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="0" selection-start="97522" selection-end="97522" vertical-scroll-proportion="0.58303887" vertical-offset="0" max-vertical-offset="566">
+        <state line="45" column="23" selection-start="1291" selection-end="1291" vertical-scroll-proportion="-1.5638298" vertical-offset="969" max-vertical-offset="1575">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/plugins/siteorigin-panels/siteorigin-panels.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1048" column="7" selection-start="39219" selection-end="39219" vertical-scroll-proportion="-4.9166665" vertical-offset="15452" max-vertical-offset="20235">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/plugins/siteorigin-panels/css/front.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="7" selection-start="448" selection-end="448" vertical-scroll-proportion="0.0" vertical-offset="598" max-vertical-offset="825">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/plugins/siteorigin-panels/js/siteorigin-panels-live-editor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="49" selection-start="1494" selection-end="1494" vertical-scroll-proportion="0.0" vertical-offset="617" max-vertical-offset="4890">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/plugins/siteorigin-panels/js/siteorigin-panels-live-editor.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="682" selection-start="683" selection-end="683" vertical-scroll-proportion="0.026269702" vertical-offset="0" max-vertical-offset="571">
           <folding />
         </state>
       </provider>
