@@ -82,7 +82,7 @@ class SuperNews_Slider_Builder extends WP_Widget {
 											<?php the_excerpt(); ?>
 										</div><!-- .entry-summary -->
 										<div class="more-link">
-											<a href="<?php the_permalink(); ?>"><?php _e( 'Read the rest of this entry', 'supernews' ); ?></a>
+											<a href="<?php the_permalink(); ?>"><?php _e( 'Read more >>', 'supernews' ); ?></a>
 										</div><!-- .more-link -->
 									</article>
 								</li>

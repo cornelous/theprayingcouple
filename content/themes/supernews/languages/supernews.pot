@@ -585,7 +585,7 @@ msgstr ""
 #: content.php:26 inc/builder/posts-varian-1.php:96
 #: inc/builder/posts-varian-2.php:100 inc/builder/posts-varian-3.php:103
 #: inc/builder/posts-varian-4.php:103 inc/builder/slider.php:85
-msgid "Read the rest of this entry"
+msgid "Read more >>"
 msgstr ""
 
 #: content-classic.php:13 content-featured.php:56 content-featured.php:86

@@ -100,7 +100,7 @@ class SuperNews_Posts_Varian3_Builder extends WP_Widget {
 											<?php echo apply_filters( 'truenews_posts_1col', wp_trim_words( get_the_excerpt(), 15 ) ); ?>
 										</div><!-- .entry-summary -->
 										<div class="more-link">
-											<a href="<?php the_permalink(); ?>"><?php _e( 'Read the rest of this entry', 'supernews' ); ?></a>
+											<a href="<?php the_permalink(); ?>"><?php _e( 'Read more >>', 'supernews' ); ?></a>
 										</div><!-- .more-link -->
 									</li>
 
