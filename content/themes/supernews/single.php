@@ -1,6 +1,6 @@
 <?php get_header(); ?>
 
-	<div id="primary" class="content-area column">
+	<div id="primary" class="single-content-area column">
 		<div id="content" class="content-loop" role="main" <?php hybrid_attr( 'content' ); ?>>
 
 		<?php while ( have_posts() ) : the_post(); ?>
@@ -23,6 +23,6 @@
 		</div><!-- #main -->
 	</div><!-- #primary -->
 
-<?php get_sidebar( 'secondary' ); ?>
+<?php //get_sidebar( 'secondary' ); ?>
 <?php get_sidebar(); ?>
 <?php get_footer(); ?>

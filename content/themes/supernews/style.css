@@ -1039,6 +1039,14 @@ article.sticky .sticky-post {
   margin: 25px 0 25px 200px;
 }
 
+.single-content-area {
+  float: left;
+  width: 928px;
+  height: auto;
+  margin: 25px 0 25px 0px;
+}
+
+
 .content-area ul li {
   list-style: none;
 }
